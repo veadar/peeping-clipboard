@@ -6,6 +6,10 @@ This Application is to peep current Clipboard(Pasteboard) contents on Desktop.
 
 Appearance is customizable with CSS and HTML.
 
+##Requirements
+
+OS X 10.6 or later
+
 ##Usage
 
 ![](https://raw.github.com/veadar/peeping-clipboard/master/screenshot.png)
@@ -13,6 +17,20 @@ Appearance is customizable with CSS and HTML.
 Copy to Clipboard,Show Clipboard data by Webview window.
 
 Save Clipboard History(Only Plain text).
+
+##Placeholder for HTML
+
+@@CSS
+: insert Custom CSS
+
+@@clipboardType
+: insert data type(Text,File,Image)
+
+@@clipboardText
+: insert data(only Text or File)
+
+@@clipboardImage
+: insert image tag(only Image)
 
 ##Download
 
