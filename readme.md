@@ -24,13 +24,13 @@ Save Clipboard History(Only Plain text).
 : insert Custom CSS
 
 @@clipboardType
-: insert data type(Text,File,Image)
+: insert data type
 
 @@clipboardText
-: insert data(only Text or File)
+: insert data(only Text and File)
 
 @@clipboardImage
-: insert image tag(only Image)
+: insert image tag(only Image and File)
 
 ##Download
 
